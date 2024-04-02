@@ -1,0 +1,78 @@
+# Sampah
+
+## Berdasarkan Sifatnya
+
+### Organik
+- Sisa makhluk hidup
+- Mudah terurai
+- Contoh: sisa makanan, daun kering, kulit buah
+
+#### Pengolahan:
+- Pengomposan
+- Biogas
+- Maggot
+
+### Anorganik
+- Sulit terurai
+- Contoh: plastik, kaca, kaleng
+
+#### Pengolahan:
+- 3R (Reduce, Reuse, Recycle)
+- Bank sampah
+- TPS (Tempat Pemrosesan Sampah)
+
+## Berdasarkan Sumbernya
+
+### Sampah Rumah Tangga
+- Contoh: sisa makanan, plastik, kertas
+
+#### Pengolahan:
+- Dipisahkan di rumah
+- Dikumpulkan oleh bank sampah/petugas kebersihan
+- Diangkut ke TPA/TPS
+
+### Sampah Industri
+- Contoh: limbah pabrik, sisa produksi
+
+#### Pengolahan:
+- Diolah oleh industri sendiri
+- Diangkut ke tempat pengolahan khusus
+
+### Sampah B3 (Bahan Berbahaya dan Beracun)
+- Contoh: baterai bekas, cat, obat-obatan
+
+#### Pengolahan:
+- Dikumpulkan di tempat khusus
+- Diolah oleh業者 khusus
+
+## Berdasarkan Wujudnya
+
+### Padat
+- Contoh: plastik, kertas, sisa makanan
+
+#### Pengolahan:
+- Dipisahkan
+- Dikumpulkan
+- Diangkut ke TPA/TPS
+
+### Cair
+- Contoh: air limbah
+
+#### Pengolahan:
+- Diolah di IPAL (Instalasi Pengolahan Air Limbah)
+
+### Gas
+- Contoh: asap pabrik
+
+#### Pengolahan:
+- Dipasang alat filter
+- Diolah dengan teknologi khusus
+
+## Kesimpulan
+
+Sampah dapat dikategorikan berdasarkan sifatnya, sumbernya, dan wujudnya. Pengolahan sampah yang tepat dan berkelanjutan sangat penting untuk menjaga kelestarian lingkungan.
+
+## Catatan
+
+- Bagan ini dapat dikembangkan lebih lanjut dengan menambahkan informasi yang lebih detail.
+- Gunakan bahasa yang mudah dipahami oleh target audience.
